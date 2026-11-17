@@ -20,6 +20,12 @@ Trek Pets connects real-world walking with pet progression, customization, and i
 
 *The Trek Pets source repository is private while the product is under development.*
 
+## 🎮 Public code sample: Hollow Run
+
+**[Play Hollow Run](https://aaronbringhurst.github.io/fox-maze/)** · **[Source code](https://github.com/AaronBringhurst/fox-maze)**
+
+A JavaScript/PixiJS maze-chase game featuring seeded procedural generation, breadth-first-search pathfinding, and automated regression checks. A public example of my work while Trek Pets remains proprietary.
+
 ## 🛠️ Technologies
 
 **Mobile & frontend:** React Native, React, Expo, JavaScript, TypeScript, HTML, CSS  
